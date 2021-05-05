@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "zenn-cli": "^0.1.66"
+    "zenn-cli": "^0.1.79"
   },
   "devDependencies": {},
   "scripts": {
